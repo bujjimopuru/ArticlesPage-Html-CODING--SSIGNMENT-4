@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.arciticles-homepage-bg-container {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+}
+
+.arciticles-homepage-icons-card {
+    background-color: white;
+    border-radius: 10px;
+    width: 130px;
+    height: 135px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.icons-text {
+    text-align: center;
+}
+
+.arciticles-homepage-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+}
+
+.arciticles-homepage-text {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.arciticles-technologypage-bg-container {
+    background-color: #225db0;
+    height: 200vh;
+    background-size: cover;
+    padding: 15px;
+    text-align: center;
+}
+
+.list-tech-heading {
+    font-family: "Roboto";
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    margin: 15px;
+}
+
+.list-techmology {
+    font-family: "Roboto";
+    color: white;
+    font-size: 15px;
+    margin: 5px;
+}
+
+.btn {
+    border-color: white;
+    color: white;
+    text-align: center;
+}
+
+.tech-heding-and-list-card {
+    text-align: left;
+}
+
+.list-tecg-individual {
+    margin: 10px;
+}
